@@ -1,4 +1,4 @@
-Энд байгаа бүх кодууд мэдээж албан ёсных биш шүү. Хэрэв Инстад баригдвал банндуулж болзошгүй шүү.
+# Энд байгаа бүх кодууд мэдээж албан ёсных биш шүү. Хэрэв Инстад баригдвал банндуулж болзошгүй шүү.
 
 This code is no longer maintaned. Don't try to run anything from here - you will be easily detected and banned by Instagram. 
 

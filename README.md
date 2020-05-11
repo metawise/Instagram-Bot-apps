@@ -1,3 +1,5 @@
+Энд байгаа бүх кодууд мэдээж албан ёсных биш шүү. Хэрэв Инстад баригдвал банндуулж болзошгүй шүү.
+
 This code is no longer maintaned. Don't try to run anything from here - you will be easily detected and banned by Instagram. 
 
 Join our [Telegram community](https://t.me/instabotproject) to find more tools, projects and growth hacking methods.
@@ -14,17 +16,6 @@ Read why you shouldn't run any bots: [it is no longer safe](https://likeup.me/bo
 --------------------------
 --------------------------
 --------------------------
-
-
-
-
-
-
-
-
-
-
-
 
 
 
